@@ -1,6 +1,6 @@
-# covid_info
+# covid_worldmeter
 
-A new Flutter project.
+A Covid worldmeter flutter app that uses the API from disease.sh to show the latest COVID-19 worldwide stats. 
 
 ## Getting Started
 
